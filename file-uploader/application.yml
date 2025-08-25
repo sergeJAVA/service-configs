@@ -18,4 +18,4 @@ spring:
 
 feign:
   file-status-processor:
-    url: http://localhost:8083/status
+    url: localhost:8083/status
